@@ -9,3 +9,5 @@ Testing waffle's `New Collaborator PRs` columns integration
 1. Adding some changes so I can create a commit that "Fixes" some issue.
 
 Line with conflist, version A.
+Line with conflict, version B.
+And something extra.
