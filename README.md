@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/derenio/github_api_testing.png?label=ready&title=Ready)](https://waffle.io/derenio/github_api_testing)
 # github_api_testing
 here be readme
 
